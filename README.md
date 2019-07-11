@@ -11,3 +11,6 @@
 
 * Worked with the entire 401 group to finish this lab
 
+### UML
+
+![UML](./assets/image.jpg)
