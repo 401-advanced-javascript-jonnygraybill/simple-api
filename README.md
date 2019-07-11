@@ -1,5 +1,7 @@
 # LAB - 06 - simple-api
 
+# swaggerhub url: https://app.swaggerhub.com/apis/jonagray/default-title/0.1
+
 ### Author: Jonny Graybill
 
 ### Links and Resources
@@ -8,3 +10,4 @@
 * [swaggerhub url](https://app.swaggerhub.com/apis/jonagray/default-title/0.1)
 
 * Worked with the entire 401 group to finish this lab
+

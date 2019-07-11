@@ -1,0 +1,43 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Video Games",
+      "display_name": "The Key to Happiness",
+      "description": "Use the name of this category to unlock the display name."
+    },
+    {
+      "id": 3,
+      "description": "super nice",
+      "display_name": "a thing",
+      "name": "philbert"
+    },
+    {
+      "id": 4,
+      "description": "buh",
+      "display_name": "another thing",
+      "name": "lolwut"
+    }
+  ],
+  "products": [
+    {
+      "id": 2,
+      "category": "some comment",
+      "name": 1,
+      "display_name": "yikes",
+      "description": "ooooof"
+    },
+    {
+      "id": 1,
+      "description": "super nice",
+      "display_name": "a thing",
+      "name": "philbert"
+    },
+    {
+      "id": 3,
+      "description": "oof",
+      "display_name": "William",
+      "name": "Billiam"
+    }
+  ]
+}
